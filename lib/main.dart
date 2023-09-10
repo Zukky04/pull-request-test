@@ -22,7 +22,7 @@ class MyWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text('Umigishi Aoi'),
+        child: Text('ずっきー'),
       ),
     );
   }
